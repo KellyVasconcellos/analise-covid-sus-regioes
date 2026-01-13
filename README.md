@@ -56,7 +56,7 @@ Este estudo visa realizar uma análise comparativa da incidência de suspeita de
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/KellyVasconcellos/projeto-aplicado-I.git
+    git clone https://github.com/KellyVasconcellos/analise-covid-sus-regioes.git
     ```
 
 2. Acesse a pasta do projeto:
